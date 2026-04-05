@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
 <h3 align="center">
-<span style="color:#00F7FF;"><b>Driven to build</b></span>, 
-<span style="color:#6A5ACD;"><b>designed to solve</b></span>, 
-<span style="color:#00C9A7;"><b>committed to grow</b></span>.
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+Ideas+into+Scalable+Solutions;Engineering+with+Logic+and+Precision;Growing+Through+Code+and+Innovation" />
 </h3>
 
 ---
@@ -11,7 +9,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 Information Science Engineering Student
-* 🤖 Focused on Artificial Intelligence, Machine Learning, and the development of scalable, high-performance software systems  
+* 🤖 Focused on Artificial Intelligence, Machine Learning, and the development of scalable, high-performance software systems
 
 ---
 
@@ -56,3 +54,7 @@ GitHub:
 https://github.com/priyapriyanka29
 
 ---
+
+<p align="center">
+  ✨ <i>Building with intent. Growing with consistency.</i> ✨
+</p>

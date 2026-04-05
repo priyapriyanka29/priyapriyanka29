@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
-<h3 align="center">🚀 Aspiring Software Engineer</h3>
-
-<p align="center">
-<b>Building Impactful Solutions</b>
-</p>
+<h3 align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Information+Science+Student;Tech+Enthusiast;Building+Impactful+Solutions" />
+  </a>
+</h3>
 
 ---
 
@@ -19,18 +19,27 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img src="https://skillicons.dev/icons?i=java" height="60" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" />
-<img src="https://skillicons.dev/icons?i=html" height="60" />
-<img src="https://skillicons.dev/icons?i=css" height="60" />
-<img src="https://skillicons.dev/icons?i=js" height="60" />
-<img src="https://skillicons.dev/icons?i=react" height="60" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-<img src="https://skillicons.dev/icons?i=express" height="60" />
-<img src="https://skillicons.dev/icons?i=git" height="60" />
-<img src="https://skillicons.dev/icons?i=github" height="60" />
+<img src="https://skillicons.dev/icons?i=python" height="65" />
+<img src="https://skillicons.dev/icons?i=java" height="65" />
+<img src="https://skillicons.dev/icons?i=mysql" height="65" />
+<img src="https://skillicons.dev/icons?i=html" height="65" />
+<img src="https://skillicons.dev/icons?i=css" height="65" />
+<img src="https://skillicons.dev/icons?i=js" height="65" />
+<img src="https://skillicons.dev/icons?i=react" height="65" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="65" />
+<img src="https://skillicons.dev/icons?i=express" height="65" />
+<img src="https://skillicons.dev/icons?i=git" height="65" />
+<img src="https://skillicons.dev/icons?i=github" height="65" />
 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyapriyanka29&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyapriyanka29&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -43,3 +52,6 @@ GitHub: https://github.com/priyapriyanka29
 
 ---
 
+<p align="center">
+  ⭐ <b>“Striving to turn ideas into impactful digital solutions.”</b>
+</p>

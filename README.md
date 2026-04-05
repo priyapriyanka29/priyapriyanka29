@@ -3,6 +3,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=100000&color=00F7FF&center=true&vCenter=true&width=900&lines=Driven+to+build,+designed+to+solve,+committed+to+grow." />
 </h3>
+
 ---
 
 ## 👩‍💻 About Me
@@ -56,5 +57,5 @@ https://github.com/priyapriyanka29
 
 
 <p align="center">
-  ✨ <h6><i>Building with intent. Growing with consistency.</i></h6>✨
+  ✨ <i>Building with intent. Growing with consistency.</i>✨
 </p>

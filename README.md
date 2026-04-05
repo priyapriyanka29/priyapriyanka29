@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
 <h3 align="center">
-<span style="color:#00F7FF; text-shadow: 0 0 8px #00F7FF, 0 0 16px #00F7FF;">
-<b>Driven to build, designed to solve, committed to grow.</b>
-</span>
+<span style="color:#00F7FF;"><b>Driven to build</b></span>, 
+<span style="color:#6A5ACD;"><b>designed to solve</b></span>, 
+<span style="color:#00C9A7;"><b>committed to grow</b></span>.
 </h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=header"/>
-</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 Information Science Engineering Student
-* 💡 Passionate about building efficient software and continuously growing in technology
+* - 🤖 Focused on Artificial Intelligence, Machine Learning, and the development of scalable, high-performance software systems  
 
 ---
 

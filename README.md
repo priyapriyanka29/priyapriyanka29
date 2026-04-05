@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
 <h3 align="center">
+<span style="color:#00F7FF; text-shadow: 0 0 8px #00F7FF, 0 0 16px #00F7FF;">
 <b>Driven to build, designed to solve, committed to grow.</b>
+</span>
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=header"/>
+</p>
 
 ---
 
@@ -44,8 +50,13 @@
 
 ## 🌐 Connect with Me
 
-Email: [priyapriyanka29@gmail.com](mailto:priyapriyanka29@gmail.com)
-LinkedIn: https://www.linkedin.com/in/priyanka-r29
-GitHub: https://github.com/priyapriyanka29
+Email:
+[priyapriyanka29@gmail.com](mailto:priyapriyanka29@gmail.com)
+
+LinkedIn:
+https://www.linkedin.com/in/priyanka-r29
+
+GitHub:
+https://github.com/priyapriyanka29
 
 ---

@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
 <h3 align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Information+Science+Student;Tech+Enthusiast;Building+Impactful+Solutions" />
-  </a>
+<b>Driven to build, designed to solve, committed to grow.</b>
 </h3>
 
 ---
@@ -51,7 +49,3 @@ LinkedIn: https://www.linkedin.com/in/priyanka-r29
 GitHub: https://github.com/priyapriyanka29
 
 ---
-
-<p align="center">
-  ⭐ <b>“Striving to turn ideas into impactful digital solutions.”</b>
-</p>

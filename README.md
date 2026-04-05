@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+Ideas+into+Scalable+Solutions;Engineering+with+Logic+and+Precision;Growing+Through+Code+and+Innovation" />
+<span style="color:#00F7FF; text-shadow: 0 0 6px #00F7FF, 0 0 12px #00F7FF, 0 0 18px #00F7FF;">
+<b>Driven to build, designed to solve, committed to grow.</b>
+</span>
 </h3>
 
 ---
@@ -55,6 +57,7 @@ https://github.com/priyapriyanka29
 
 ---
 
+
 <p align="center">
-  ✨ <i>Building with intent. Growing with consistency.</i> ✨
+  ✨ <h1><i>Building with intent. Growing with consistency.</i></h1>✨
 </p>

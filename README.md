@@ -16,7 +16,7 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="65" />
-<img src="https://skillicons.dev/icons?i=java" height="65" />
+<img src="https://skillicons.dev/icons?i=java" height="65" />                 
 <img src="https://skillicons.dev/icons?i=mysql" height="65" />
 <img src="https://skillicons.dev/icons?i=html" height="65" />
 <img src="https://skillicons.dev/icons?i=css" height="65" />

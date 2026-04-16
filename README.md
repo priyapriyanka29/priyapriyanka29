@@ -45,8 +45,7 @@
 Email:
 [priyapriyanka29@gmail.com](mailto:priyapriyanka29@gmail.com)
 
-LinkedIn:                    
-https://www.linkedin.com/in/priyanka-r29
+LinkedIn:                    https://www.linkedin.com/in/priyanka-r29
 
 GitHub:
 https://github.com/priyapriyanka29

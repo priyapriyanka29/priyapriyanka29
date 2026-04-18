@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100000&color=00F7FF&center=true&vCenter=true&width=900&lines=Driven+to+build,+designed+to+solve,+committed+to+grow." />
 </h3>                                
    
-## 👩‍💻 About Me                             
+## 👩‍💻 About Me                                 
                                                           
 * 🎓 Information Science Engineering Student
 * 🤖 Focused on Artificial Intelligence, Machine Learning, and the development of scalable, high-performance software systems

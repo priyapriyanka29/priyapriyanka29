@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanka R</h1>
 
 <h3 align="center">        
-  <img src="https://readme-typing-    svg.herokuapp.com?   font=Fira+Code&size=20&pause=100000&color=00F7FF&center=true&vCenter=true&width=900&lines=Driven+to+build,+designed+to+solve,+committed+to+grow." />
-</h3>                                 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Driven+to+build,+designed+to+solve,+committed+to+grow." />
+</h3>                                
    
 ## 👩‍💻 About Me                                    
                                                           

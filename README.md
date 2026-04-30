@@ -9,7 +9,7 @@
 * 🎓 Information Science Engineering Student
 * 🤖 Focused on Artificial Intelligence, Machine Learning, and the development of scalable, high-performance software systems
 
----
+---                 
                                              
 ## 🛠️ Tech Stack                                                           
                                                      
